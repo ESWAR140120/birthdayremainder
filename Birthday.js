@@ -1,0 +1,51 @@
+export const data=[
+    {
+        id:1,
+        name:"BALU",
+        age:30,
+        city:"Bangalore",
+        image:"https://th.bing.com/th/id/OIP.oCHX_KilRtdojBKJPFXFCAHaEo?w=298&h=186&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+    },
+    {
+        id:2,
+        name:"VARUN",
+        age:24,
+        city:"Karnataka",
+        image:"https://th.bing.com/th/id/OIP.m_hfwCpO4WTSJoKsMYkzvAHaEo?w=257&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+ },
+{
+    id:3,
+        name:"ESWAR",
+        age:33,
+        city:"Andra",
+        image:"https://th.bing.com/th/id/OIP.kS2kaiXanQzs0sKFX1TN_AHaFi?w=245&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+    },
+{
+    id:4,
+        name:"SUKETH",
+        age:27,
+        city:"Pune",
+        image:"https://th.bing.com/th/id/OIP.NnL3yG5EDYS0msj7YJUtIgHaFq?w=230&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+},
+{
+    id:5,
+        name:"SUNIL",
+        age:32,
+        city:"Delhi",
+        image:"https://th.bing.com/th/id/OIP.hzvDe6wE6lmZBffIDLONbgHaHa?w=175&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+},
+{
+    id:6,
+        name:"MANU",
+        age:34,
+        city:"Kerala",
+        image:"https://th.bing.com/th/id/OIP.o6RUTfJjtHfG_iWL8a7K7AHaE8?w=301&h=201&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+},
+{
+    id:7,
+        name:"BHARATH",
+        age:25,
+        city:"Goa",
+        image:"https://th.bing.com/th/id/OIP.BOVqhY3Fy1Fvk2aKN2uSzgHaEI?w=273&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+}
+]
